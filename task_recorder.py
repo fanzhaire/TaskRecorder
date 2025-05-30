@@ -715,8 +715,8 @@ def transfer_selected_task():
     ttk.Label(transfer_window, text="Send to:").pack(pady=10)
 
     colleagues = {
-        "Josh": "192.168.1.33",
-        "Alen": "192.168.1.35",
+        "Josh": "192.168.1.12",
+        "Alen": "192.168.1.13",
     }
 
     name_var = tk.StringVar()
