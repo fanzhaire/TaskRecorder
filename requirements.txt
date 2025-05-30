@@ -1,0 +1,11 @@
+# Python package requirements for Personal Task Management System
+# Install all dependencies with:
+#     pip install -r requirements.txt
+#
+# Version pins keep the environment stable; adjust as needed.
+
+Flask>=3.0,<4.0        # Backend web framework
+flask-cors>=4.0,<5.0   # Cross‑origin support for Flask
+tkcalendar>=1.6,<2.0   # Date picker widget for Tkinter
+customtkinter>=5.2,<6.0  # Modern themed Tkinter widgets
+requests>=2.31,<3.0    # HTTP requests for task transfer
