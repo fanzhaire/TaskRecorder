@@ -35,8 +35,8 @@ python task_recorder.py
 
 # Optional: Change the login password
 # Open frontend/task_recorder.py and find:
-#     if password_entry.get() == "990708":
-# Replace "990708" with your own password, e.g. "abcd1234"
+#     if password_entry.get() == "123456":
+# Replace "123456" with your own password, e.g. "abcd1234"
 
 # Optional: Make the password secure using an environment variable:
 #     import os
